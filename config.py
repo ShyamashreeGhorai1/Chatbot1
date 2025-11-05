@@ -1,0 +1,1 @@
+GEMINI_API_KEY="AIzaSyDEvGVZNJafrK-AJwzx8sDGFvqqn88laTM" #collected from google ai studio
